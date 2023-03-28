@@ -3,17 +3,15 @@
 }
 
 hr {
-    color: orange;
+    color: black;
 }
 
 body {
     background-color: darkred;
 }
 
-p, ul {
-    color: rgb(212, 212, 59);
-}
+
 
 h1, h2, h3 {
-    color: orange;
+    color: skyblue;
 }
