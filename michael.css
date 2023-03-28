@@ -14,4 +14,6 @@ h1, h2, h3 {
     color: skyblue;
 }
 
-
+a {
+    font-size: 30px;
+}
